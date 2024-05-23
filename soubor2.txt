@@ -9,3 +9,4 @@ Toto je commit 8
 Toto je commit 9
 Toto je commit 10
 Toto je commit 11
+Toto je commit 12
