@@ -18,3 +18,4 @@ Toto je commit 17
 Toto je commit 18
 Toto je commit 19
 Toto je commit 20
+:0
