@@ -1,1 +1,2 @@
 Toto je commit 1
+Toto je commit 2
